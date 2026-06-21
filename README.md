@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard - Power BI
+# 📊 HR Analytics Dashboard - Power BI ![Project Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
 ![HR Dashboard](dashboard_screenshot.png)
 
