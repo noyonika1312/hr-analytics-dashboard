@@ -132,7 +132,7 @@ Based on the analysis, here are key recommendations:
 
 **Your Name**
 - LinkedIn: www.linkedin.com/in/noyonika-barman
-- GitHub: [Your GitHub URL]
+- GitHub: https://github.com/noyonika1312
 - Email: noyonikaaa14@gmail.com
 
 ---
