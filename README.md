@@ -131,9 +131,9 @@ Based on the analysis, here are key recommendations:
 ## 👨‍💻 Author
 
 **Your Name**
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/noyonika-barman
 - GitHub: [Your GitHub URL]
-- Email: [Your Email]
+- Email: noyonikaaa14@gmail.com
 
 ---
 
